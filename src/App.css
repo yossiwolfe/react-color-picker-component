@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Color-picker {
+  display: block;
+  width: 325px;
+  height: 50px;
+  overflow: none;
+}
+
+.Color-wrapper {
+  display: block;
+  width: 325px;
+  height: 50px;
+}
+
+.Color {
+  display: block;
+  float: left;
+  cursor: crosshair;
+}
+
+.Current-colors-box {
+  width: 180px;
+  height: 80px;
+}
+
+.Current-color {
+  float: left;
+  border: 2px solid #000000;
+  margin: 2px;
+}
