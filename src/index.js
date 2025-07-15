@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ColorPicker from './ColorPicker';
+import InventoryApp from './InventoryApp';
 import './index.css';
 
 ReactDOM.render(
-  <ColorPicker />,
+  <InventoryApp />,
   document.getElementById('root')
 );

@@ -42,3 +42,23 @@
   border: 2px solid #000000;
   margin: 2px;
 }
+
+/* Inventory app styles */
+.InventoryApp {
+  margin: 20px;
+}
+
+.Add-item-form input,
+.Add-item-form select {
+  margin-right: 5px;
+}
+
+.Inventory-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.Inventory-item {
+  margin-bottom: 8px;
+}
+
